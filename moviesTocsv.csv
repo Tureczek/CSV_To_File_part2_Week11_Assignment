@@ -1,0 +1,500 @@
+director_name,genres,language,movie_title
+James Cameron,Action|Adventure|Fantasy|Sci-Fi,English,Avatar 
+Gore Verbinski,Action|Adventure|Fantasy,English,Pirates of the Caribbean: At World's End 
+Sam Mendes,Action|Adventure|Thriller,English,Spectre 
+Christopher Nolan,Action|Thriller,English,The Dark Knight Rises 
+Doug Walker,Documentary,,Star Wars: Episode VII - The Force Awakens             
+Andrew Stanton,Action|Adventure|Sci-Fi,English,John Carter 
+Sam Raimi,Action|Adventure|Romance,English,Spider-Man 3 
+Nathan Greno,Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance,English,Tangled 
+Joss Whedon,Action|Adventure|Sci-Fi,English,Avengers: Age of Ultron 
+David Yates,Adventure|Family|Fantasy|Mystery,English,Harry Potter and the Half-Blood Prince 
+Zack Snyder,Action|Adventure|Sci-Fi,English,Batman v Superman: Dawn of Justice 
+Bryan Singer,Action|Adventure|Sci-Fi,English,Superman Returns 
+Marc Forster,Action|Adventure,English,Quantum of Solace 
+Gore Verbinski,Action|Adventure|Fantasy,English,Pirates of the Caribbean: Dead Man's Chest 
+Gore Verbinski,Action|Adventure|Western,English,The Lone Ranger 
+Zack Snyder,Action|Adventure|Fantasy|Sci-Fi,English,Man of Steel 
+Andrew Adamson,Action|Adventure|Family|Fantasy,English,The Chronicles of Narnia: Prince Caspian 
+Joss Whedon,Action|Adventure|Sci-Fi,English,The Avengers 
+Rob Marshall,Action|Adventure|Fantasy,English,Pirates of the Caribbean: On Stranger Tides 
+Barry Sonnenfeld,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,English,Men in Black 3 
+Peter Jackson,Adventure|Fantasy,English,The Hobbit: The Battle of the Five Armies 
+Marc Webb,Action|Adventure|Fantasy,English,The Amazing Spider-Man 
+Ridley Scott,Action|Adventure|Drama|History,English,Robin Hood 
+Peter Jackson,Adventure|Fantasy,English,The Hobbit: The Desolation of Smaug 
+Chris Weitz,Adventure|Family|Fantasy,English,The Golden Compass 
+Peter Jackson,Action|Adventure|Drama|Romance,English,King Kong 
+James Cameron,Drama|Romance,English,Titanic 
+Anthony Russo,Action|Adventure|Sci-Fi,English,Captain America: Civil War 
+Peter Berg,Action|Adventure|Sci-Fi|Thriller,English,Battleship 
+Colin Trevorrow,Action|Adventure|Sci-Fi|Thriller,English,Jurassic World 
+Sam Mendes,Action|Adventure|Thriller,English,Skyfall 
+Sam Raimi,Action|Adventure|Fantasy|Romance,English,Spider-Man 2 
+Shane Black,Action|Adventure|Sci-Fi,English,Iron Man 3 
+Tim Burton,Adventure|Family|Fantasy,English,Alice in Wonderland 
+Brett Ratner,Action|Adventure|Fantasy|Sci-Fi|Thriller,English,X-Men: The Last Stand 
+Dan Scanlon,Adventure|Animation|Comedy|Family|Fantasy,English,Monsters University 
+Michael Bay,Action|Adventure|Sci-Fi,English,Transformers: Revenge of the Fallen 
+Michael Bay,Action|Adventure|Sci-Fi,English,Transformers: Age of Extinction 
+Sam Raimi,Adventure|Family|Fantasy,English,Oz the Great and Powerful 
+Marc Webb,Action|Adventure|Fantasy|Sci-Fi,English,The Amazing Spider-Man 2 
+Joseph Kosinski,Action|Adventure|Sci-Fi,English,TRON: Legacy 
+John Lasseter,Adventure|Animation|Comedy|Family|Sport,English,Cars 2 
+Martin Campbell,Action|Adventure|Sci-Fi,English,Green Lantern 
+Lee Unkrich,Adventure|Animation|Comedy|Family|Fantasy,English,Toy Story 3 
+McG,Action|Adventure|Sci-Fi,English,Terminator Salvation 
+James Wan,Action|Crime|Thriller,English,Furious 7 
+Marc Forster,Action|Adventure|Horror|Sci-Fi|Thriller,English,World War Z 
+Bryan Singer,Action|Adventure|Fantasy|Sci-Fi|Thriller,English,X-Men: Days of Future Past 
+J.J. Abrams,Action|Adventure|Sci-Fi,English,Star Trek Into Darkness 
+Bryan Singer,Adventure|Fantasy,English,Jack the Giant Slayer 
+Baz Luhrmann,Drama|Romance,English,The Great Gatsby 
+Mike Newell,Action|Adventure|Fantasy|Romance,English,Prince of Persia: The Sands of Time 
+Guillermo del Toro,Action|Adventure|Sci-Fi,English,Pacific Rim 
+Michael Bay,Action|Adventure|Sci-Fi,English,Transformers: Dark of the Moon 
+Steven Spielberg,Action|Adventure|Fantasy,English,Indiana Jones and the Kingdom of the Crystal Skull 
+Peter Sohn,Adventure|Animation|Comedy|Family|Fantasy,English,The Good Dinosaur 
+Mark Andrews,Adventure|Animation|Comedy|Family|Fantasy,English,Brave 
+Justin Lin,Action|Adventure|Sci-Fi|Thriller,English,Star Trek Beyond 
+Andrew Stanton,Adventure|Animation|Family|Sci-Fi,English,WALL·E 
+Brett Ratner,Action|Comedy|Crime|Thriller,English,Rush Hour 3 
+Roland Emmerich,Action|Adventure|Sci-Fi,English,2012 
+Robert Zemeckis,Animation|Drama|Family|Fantasy,English,A Christmas Carol 
+Lana Wachowski,Action|Adventure|Sci-Fi,English,Jupiter Ascending 
+David Yates,Action|Adventure|Drama|Romance,English,The Legend of Tarzan 
+Andrew Adamson,Adventure|Family|Fantasy,1463,"The Chronicles of Narnia: The Lion
+Bryan Singer,Action|Adventure|Sci-Fi,English,X-Men: Apocalypse 
+Christopher Nolan,Action|Crime|Drama|Thriller,English,The Dark Knight 
+Pete Docter,Adventure|Animation|Comedy|Family,English,Up 
+Rob Letterman,Action|Adventure|Animation|Comedy|Family|Sci-Fi,English,Monsters vs. Aliens 
+Jon Favreau,Action|Adventure|Sci-Fi,English,Iron Man 
+Martin Scorsese,Adventure|Drama|Family|Mystery,English,Hugo 
+Barry Sonnenfeld,Action|Comedy|Sci-Fi|Western,English,Wild Wild West 
+Rob Cohen,Action|Adventure|Fantasy|Horror|Thriller,English,The Mummy: Tomb of the Dragon Emperor 
+David Ayer,Action|Adventure|Comedy|Sci-Fi,English,Suicide Squad 
+Tom Shadyac,Comedy|Family|Fantasy,English,Evan Almighty 
+Doug Liman,Action|Adventure|Sci-Fi,English,Edge of Tomorrow 
+Kevin Reynolds,Action|Adventure|Sci-Fi|Thriller,English,Waterworld 
+Stephen Sommers,Action|Adventure|Sci-Fi|Thriller,English,G.I. Joe: The Rise of Cobra 
+Pete Docter,Adventure|Animation|Comedy|Drama|Family|Fantasy,English,Inside Out 
+Jon Favreau,Adventure|Drama|Family|Fantasy,English,The Jungle Book 
+Jon Favreau,Action|Adventure|Sci-Fi,English,Iron Man 2 
+Rupert Sanders,Action|Adventure|Drama|Fantasy,English,Snow White and the Huntsman 
+Robert Stromberg,Action|Adventure|Family|Fantasy|Romance,English,Maleficent 
+Matt Reeves,Action|Adventure|Drama|Sci-Fi,English,Dawn of the Planet of the Apes 
+Roland Joffé,Action|Adventure|Romance|Sci-Fi,English,The Lovers 
+Carl Rinsch,Action|Adventure|Drama|Fantasy,English,47 Ronin 
+Anthony Russo,Action|Adventure|Sci-Fi,English,Captain America: The Winter Soldier 
+Mike Mitchell,Adventure|Animation|Comedy|Family|Fantasy,English,Shrek Forever After 
+Brad Bird,Action|Adventure|Family|Mystery|Sci-Fi,English,Tomorrowland 
+Don Hall,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,English,Big Hero 6 
+Rich Moore,Adventure|Animation|Comedy|Family|Sci-Fi,English,Wreck-It Ralph 
+Robert Zemeckis,Adventure|Animation|Family|Fantasy,English,The Polar Express 
+Roland Emmerich,Action|Adventure|Sci-Fi,English,Independence Day: Resurgence 
+Dean DeBlois,Adventure|Animation|Family|Fantasy,English,How to Train Your Dragon 
+Jonathan Mostow,Action|Sci-Fi,English,Terminator 3: Rise of the Machines 
+James Gunn,Action|Adventure|Sci-Fi,English,Guardians of the Galaxy 
+Christopher Nolan,Adventure|Drama|Sci-Fi,English,Interstellar 
+Christopher Nolan,Action|Adventure|Sci-Fi|Thriller,English,Inception 
+Hideaki Anno,Action|Adventure|Drama|Horror|Sci-Fi,Japanese,Godzilla Resurgence 
+Peter Jackson,Adventure|Fantasy,English,The Hobbit: An Unexpected Journey 
+Rob Cohen,Action|Crime|Thriller,English,The Fast and the Furious 
+David Fincher,Drama|Fantasy|Romance,English,The Curious Case of Benjamin Button 
+Matthew Vaughn,Action|Adventure|Sci-Fi,English,X-Men: First Class 
+Francis Lawrence,Adventure|Sci-Fi,English,The Hunger Games: Mockingjay - Part 2 
+Jon Turteltaub,Action|Adventure|Family|Fantasy,English,The Sorcerer's Apprentice 
+Wolfgang Petersen,Action|Adventure|Drama|Thriller,English,Poseidon 
+James Bobin,Adventure|Family|Fantasy,English,Alice Through the Looking Glass 
+Chris Miller,Adventure|Animation|Comedy|Family|Fantasy,English,Shrek the Third 
+Duncan Jones,Action|Adventure|Fantasy,English,Warcraft 
+Alan Taylor,Action|Adventure|Sci-Fi,English,Terminator Genisys 
+Michael Apted,Adventure|Family|Fantasy,English,The Chronicles of Narnia: The Voyage of the Dawn Treader 
+Michael Bay,Action|Drama|History|Romance|War,English,Pearl Harbor 
+Michael Bay,Action|Adventure|Sci-Fi,English,Transformers 
+Oliver Stone,Action|Adventure|Biography|Drama|History|Romance|War,English,Alexander 
+David Yates,Adventure|Family|Fantasy|Mystery,English,Harry Potter and the Order of the Phoenix 
+Mike Newell,Adventure|Family|Fantasy|Mystery,English,Harry Potter and the Goblet of Fire 
+Peter Berg,Action|Drama,English,Hancock 
+Francis Lawrence,Drama|Horror|Sci-Fi,English,I Am Legend 
+Tim Burton,Adventure|Comedy|Family|Fantasy,English,Charlie and the Chocolate Factory 
+Brad Bird,Animation|Comedy|Family|Fantasy,English,Ratatouille 
+Christopher Nolan,Action|Adventure,English,Batman Begins 
+Eric Darnell,Action|Adventure|Animation|Comedy|Family,English,Madagascar: Escape 2 Africa 
+Shawn Levy,Adventure|Comedy|Family|Fantasy,English,Night at the Museum: Battle of the Smithsonian 
+Gavin Hood,Action|Adventure|Fantasy|Sci-Fi|Thriller,English,X-Men Origins: Wolverine 
+Lana Wachowski,Action|Sci-Fi,English,The Matrix Revolutions 
+Chris Buck,Adventure|Animation|Comedy|Family|Fantasy|Musical,English,Frozen 
+Lana Wachowski,Action|Sci-Fi,English,The Matrix Reloaded 
+Alan Taylor,Action|Adventure|Fantasy,English,Thor: The Dark World 
+George Miller,Action|Adventure|Sci-Fi|Thriller,English,Mad Max: Fury Road 
+Ron Howard,Mystery|Thriller,English,Angels & Demons 
+Kenneth Branagh,Action|Adventure|Fantasy,English,Thor 
+Byron Howard,Adventure|Animation|Comedy|Drama|Family,English,Bolt 
+Hoyt Yeatman,Action|Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,English,G-Force 
+Jonathan Liebesman,Action|Adventure|Fantasy,English,Wrath of the Titans 
+Tim Burton,Comedy|Fantasy|Horror,English,Dark Shadows 
+Christopher McQuarrie,Action|Adventure|Thriller,English,Mission: Impossible - Rogue Nation 
+Joe Johnston,Drama|Fantasy|Horror|Thriller,English,The Wolfman 
+David Yates,Action|Adventure|Drama|Romance,English,The Legend of Tarzan 
+Steve Hickner,Adventure|Animation|Comedy|Family,English,Bee Movie 
+Jennifer Yuh Nelson,Action|Adventure|Animation|Comedy|Family,English,Kung Fu Panda 2 
+M. Night Shyamalan,Action|Adventure|Family|Fantasy,English,The Last Airbender 
+J.J. Abrams,Action|Adventure|Thriller,English,Mission: Impossible III 
+Roland Emmerich,Action|Drama|Thriller,English,White House Down 
+Simon Wells,Action|Adventure|Animation|Comedy|Family|Sci-Fi,English,Mars Needs Moms 
+David Bowers,Adventure|Animation|Comedy|Family,English,Flushed Away 
+Joe Wright,Adventure|Family|Fantasy,English,Pan 
+Rob Minkoff,Adventure|Animation|Comedy|Family|Sci-Fi,English,Mr. Peabody & Sherman 
+Wolfgang Petersen,Adventure,English,Troy 
+Eric Darnell,Adventure|Animation|Comedy|Family,English,Madagascar 3: Europe's Most Wanted 
+Lee Tamahori,Action|Adventure|Thriller,English,Die Another Day 
+Paul Feig,Action|Comedy|Fantasy|Sci-Fi,English,Ghostbusters 
+Michael Bay,Action|Adventure|Sci-Fi|Thriller,English,Armageddon 
+Barry Sonnenfeld,Action|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi,English,Men in Black II 
+Robert Zemeckis,Action|Adventure|Animation|Fantasy,English,Beowulf 
+Alessandro Carloni,Action|Adventure|Animation|Comedy|Family,English,Kung Fu Panda 3 
+Brad Bird,Action|Adventure|Thriller,English,Mission: Impossible - Ghost Protocol 
+Peter Ramsey,Adventure|Animation|Family|Fantasy,English,Rise of the Guardians 
+Dean Parisot,Comedy|Crime,English,Fun with Dick and Jane 
+Edward Zwick,Action|Drama|History|War,English,The Last Samurai 
+Ridley Scott,Action|Adventure|Drama,English,Exodus: Gods and Kings 
+J.J. Abrams,Action|Adventure|Sci-Fi,English,Star Trek 
+Sam Raimi,Action|Adventure|Fantasy|Romance,English,Spider-Man 
+Dean DeBlois,Action|Adventure|Animation|Comedy|Family|Fantasy,English,How to Train Your Dragon 2 
+Alex Proyas,Action|Adventure|Fantasy,English,Gods of Egypt 
+Rob Cohen,Action|Adventure|Sci-Fi|Thriller,English,Stealth 
+Zack Snyder,Action|Drama|Mystery|Sci-Fi,English,Watchmen 
+Richard Donner,Action|Crime|Thriller,English,Lethal Weapon 4 
+Ang Lee,Action|Sci-Fi,English,Hulk 
+Jon M. Chu,Action|Adventure|Sci-Fi|Thriller,English,G.I. Joe: Retaliation 
+Breck Eisner,Action|Adventure|Comedy|Thriller,English,Sahara 
+Hironobu Sakaguchi,Action|Adventure|Animation|Fantasy|Romance|Sci-Fi,English,Final Fantasy: The Spirits Within 
+Joe Johnston,Action|Adventure|Sci-Fi,English,Captain America: The First Avenger 
+Michael Apted,Action|Adventure|Thriller,English,The World Is Not Enough 
+Peter Weir,Action|Adventure|Drama|History|War,English,Master and Commander: The Far Side of the World 
+Bill Condon,Adventure|Drama|Fantasy|Romance,English,The Twilight Saga: Breaking Dawn - Part 2 
+George Miller,Animation|Comedy|Family|Musical,English,Happy Feet 2 
+Louis Leterrier,Action|Adventure|Sci-Fi,English,The Incredible Hulk 
+,Action|Crime|Drama|Mystery|Thriller,English,Miami Vice             
+Steven Spielberg,Adventure|Family|Fantasy,English,The BFG 
+Alejandro G. Iñárritu,Adventure|Drama|Thriller|Western,English,The Revenant 
+David Soren,Adventure|Animation|Comedy|Family|Sport,English,Turbo 
+Gore Verbinski,Adventure|Animation|Comedy|Family|Western,English,Rango 
+Eric Darnell,Adventure|Animation|Comedy|Family,English,Penguins of Madagascar 
+Paul Greengrass,Action|Mystery|Thriller,English,The Bourne Ultimatum 
+Mark Osborne,Action|Adventure|Animation|Comedy|Family,English,Kung Fu Panda 
+Peyton Reed,Action|Adventure|Comedy|Sci-Fi,English,Ant-Man 
+Francis Lawrence,Adventure|Sci-Fi|Thriller,English,The Hunger Games: Catching Fire 
+Bill Condon,Adventure|Drama|Fantasy|Romance,English,The Twilight Saga: Breaking Dawn - Part 2 
+Tim Johnson,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,English,Home 
+Steven Spielberg,Adventure|Sci-Fi|Thriller,English,War of the Worlds 
+Michael Bay,Action|Comedy|Crime|Thriller,English,Bad Boys II 
+Chris Miller,Action|Adventure|Animation|Comedy|Family|Fantasy,English,Puss in Boots 
+Phillip Noyce,Action|Crime|Mystery|Thriller,English,Salt 
+Darren Aronofsky,Action|Adventure|Drama,English,Noah 
+Steven Spielberg,Action|Adventure|Family|Mystery,English,The Adventures of Tintin 
+Alfonso Cuarón,Adventure|Family|Fantasy|Mystery,English,Harry Potter and the Prisoner of Azkaban 
+Baz Luhrmann,Adventure|Drama|Romance|War,English,Australia 
+M. Night Shyamalan,Action|Adventure|Sci-Fi,English,After Earth 
+Eric Leighton,Adventure|Animation|Family|Thriller,English,Dinosaur 
+Matt Birch,Action|Fantasy,English,Harry Potter and the Deathly Hallows: Part II 
+Shawn Levy,Adventure|Comedy|Family|Fantasy,English,Night at the Museum: Secret of the Tomb 
+Tom McGrath,Action|Animation|Comedy|Family|Sci-Fi,English,Megamind 
+Chris Columbus,Adventure|Family|Fantasy,English,Harry Potter and the Sorcerer's Stone 
+Robert Schwentke,Action|Comedy|Fantasy,English,R.I.P.D. 
+Hideaki Anno,Action|Adventure|Drama|Horror|Sci-Fi,Japanese,Godzilla Resurgence 
+Gore Verbinski,Action|Adventure|Fantasy,English,Pirates of the Caribbean: The Curse of the Black Pearl 
+Matt Birch,Fantasy,English,Harry Potter and the Deathly Hallows: Part I 
+Francis Lawrence,Adventure|Sci-Fi|Thriller,English,The Hunger Games: Mockingjay - Part 1 
+Ron Howard,Mystery|Thriller,English,The Da Vinci Code 
+Carlos Saldanha,Adventure|Animation|Comedy|Family|Musical,English,Rio 2 
+Bryan Singer,Action|Adventure|Fantasy|Sci-Fi|Thriller,English,X-Men 2 
+Justin Lin,Action|Crime|Thriller,English,Fast Five 
+Guy Ritchie,Action|Adventure|Crime|Mystery|Thriller,English,Sherlock Holmes: A Game of Shadows 
+Louis Leterrier,Action|Adventure|Fantasy,English,Clash of the Titans 
+Paul Verhoeven,Action|Sci-Fi,English,Total Recall 
+John McTiernan,Action|Adventure|History,English,The 13th Warrior 
+Tony Gilroy,Action|Adventure|Thriller,English,The Bourne Legacy 
+Joel Schumacher,Action,English,Batman & Robin 
+Ron Howard,Comedy|Family|Fantasy,English,How the Grinch Stole Christmas 
+Roland Emmerich,Action|Adventure|Sci-Fi|Thriller,English,The Day After Tomorrow 
+John Woo,Action|Adventure|Thriller,English,Mission: Impossible II 
+Wolfgang Petersen,Action|Adventure|Drama|Thriller,English,The Perfect Storm 
+Tim Story,Action|Adventure|Sci-Fi|Thriller,English,Fantastic 4: Rise of the Silver Surfer 
+Ang Lee,Adventure|Drama|Fantasy,English,Life of Pi 
+Mark Steven Johnson,Action|Fantasy|Thriller,English,Ghost Rider 
+Paul Greengrass,Action|Thriller,English,Jason Bourne 
+McG,Action|Adventure|Comedy|Crime,English,Charlie's Angels: Full Throttle 
+Ridley Scott,Adventure|Mystery|Sci-Fi,English,Prometheus 
+Rob Minkoff,Adventure|Animation|Comedy|Family|Fantasy,English,Stuart Little 2 
+Neill Blomkamp,Action|Drama|Sci-Fi|Thriller,English,Elysium 
+David Twohy,Action|Adventure|Sci-Fi|Thriller,English,The Chronicles of Riddick 
+José Padilha,Action|Crime|Sci-Fi|Thriller,English,RoboCop 
+Lana Wachowski,Action|Family|Sport,English,Speed Racer 
+James L. Brooks,Comedy|Drama|Romance,English,How Do You Know 
+James Mangold,Action|Comedy|Romance,English,Knight and Day 
+Joseph Kosinski,Action|Adventure|Mystery|Sci-Fi,English,Oblivion 
+George Lucas,Action|Adventure|Fantasy|Sci-Fi,English,Star Wars: Episode III - Revenge of the Sith 
+George Lucas,Action|Adventure|Fantasy|Sci-Fi,English,Star Wars: Episode II - Attack of the Clones 
+Pete Docter,Adventure|Animation|Comedy|Family|Fantasy,593,"Monsters
+James Mangold,Action|Adventure|Sci-Fi|Thriller,English,The Wolverine 
+George Lucas,Action|Adventure|Fantasy|Sci-Fi,English,Star Wars: Episode I - The Phantom Menace 
+Kirk De Micco,Adventure|Animation|Comedy|Family|Fantasy,English,The Croods 
+Frédéric Forestier,Adventure|Comedy|Family|Fantasy,French,Asterix at the Olympic Games 
+John Woo,Action|Drama|War,English,Windtalkers 
+Cedric Nicolas-Troyan,Action|Adventure|Drama|Fantasy,English,The Huntsman: Winter's War 
+Jonathan Liebesman,Action|Adventure|Comedy|Sci-Fi,English,Teenage Mutant Ninja Turtles 
+Alfonso Cuarón,Adventure|Drama|Sci-Fi|Thriller,English,Gravity 
+Roger Donaldson,Action|Adventure|Thriller,English,Dante's Peak 
+Dave Green,Action|Adventure|Comedy|Sci-Fi,English,Teenage Mutant Ninja Turtles: Out of the Shadows 
+Josh Trank,Action|Adventure|Sci-Fi,English,Fantastic Four 
+Shawn Levy,Action|Adventure|Comedy|Family|Fantasy,English,Night at the Museum 
+Brad Peyton,Action|Adventure|Drama|Thriller,English,San Andreas 
+Roger Spottiswoode,Action|Adventure|Thriller,English,Tomorrow Never Dies 
+Roland Emmerich,Action|Drama|History|War,English,The Patriot 
+Steven Soderbergh,Crime|Thriller,English,Ocean's Twelve 
+Doug Liman,Action|Comedy|Crime|Romance|Thriller,English,Mr. & Mrs. Smith 
+Robert Schwentke,Adventure|Sci-Fi|Thriller,English,Insurgent 
+Martin Scorsese,Biography|Drama,English,The Aviator 
+Rob Letterman,Adventure|Comedy|Family|Fantasy,English,Gulliver's Travels 
+Michel Gondry,Action|Comedy|Crime|Sci-Fi|Thriller,English,The Green Hornet 
+,Action|Adventure|Crime,English,The A-Team             
+Noam Murro,Action|Drama|Fantasy|War,English,300: Rise of an Empire 
+Raja Gosnell,Adventure|Animation|Comedy|Family|Fantasy,English,The Smurfs 
+Will Finn,Animation|Comedy|Family|Music|Western,English,Home on the Range 
+Robert Schwentke,Action|Adventure|Mystery|Sci-Fi|Thriller,English,Allegiant 
+Shawn Levy,Action|Drama|Sci-Fi|Sport,English,Real Steel 
+Raja Gosnell,Adventure|Animation|Comedy|Family|Fantasy,English,The Smurfs 2 
+Jan de Bont,Action|Crime|Romance|Thriller,English,Speed 2: Cruise Control 
+Gavin Hood,Action|Sci-Fi,English,Ender's Game 
+Len Wiseman,Action|Adventure|Thriller,English,Live Free or Die Hard 
+Peter Jackson,Action|Adventure|Drama|Fantasy,English,The Lord of the Rings: The Fellowship of the Ring 
+Frank Coraci,Action|Adventure|Comedy,English,Around the World in 80 Days 
+Michael Mann,Biography|Drama|Sport,English,Ali 
+Bo Welch,Adventure|Comedy|Family|Fantasy,English,The Cat in the Hat 
+Alex Proyas,Action|Mystery|Sci-Fi|Thriller,789,"I
+Ridley Scott,Action|Adventure|Drama|History|War,English,Kingdom of Heaven 
+Rob Minkoff,Adventure|Comedy|Family|Fantasy,English,Stuart Little 
+Ron Clements,Animation|Family|Fantasy|Musical|Romance,English,The Princess and the Frog 
+Ridley Scott,Adventure|Drama|Sci-Fi,English,The Martian 
+Christopher Barnard,Comedy,,"10
+Michael Bay,Action|Adventure|Romance|Sci-Fi|Thriller,English,The Island 
+Peter Chelsom,Comedy|Romance,English,Town & Country 
+Dominic Sena,Action|Crime|Thriller,English,Gone in Sixty Seconds 
+Ridley Scott,Action|Drama|Romance,English,Gladiator 
+Steven Spielberg,Action|Mystery|Sci-Fi|Thriller,English,Minority Report 
+Chris Columbus,Adventure|Family|Fantasy|Mystery,English,Harry Potter and the Chamber of Secrets 
+Martin Campbell,Action|Adventure|Thriller,English,Casino Royale 
+Tim Burton,Action|Adventure|Sci-Fi|Thriller,English,Planet of the Apes 
+James Cameron,Action|Sci-Fi,English,Terminator 2: Judgment Day 
+Michael Mann,Biography|Crime|Drama|History|Romance,English,Public Enemies 
+Ridley Scott,Biography|Crime|Drama,English,American Gangster 
+James Cameron,Action|Comedy|Thriller,English,True Lies 
+Tony Scott,Action|Crime|Thriller,English,The Taking of Pelham 1 2 3 
+Paul Weitz,Comedy|Romance,English,Little Fockers 
+Adam McKay,Action|Comedy|Crime,English,The Other Guys 
+Chuck Russell,Action|Drama|Mystery|Thriller,English,Eraser 
+Quentin Tarantino,Drama|Western,English,Django Unchained 
+Gary Trousdale,Animation|Drama|Family|Musical|Romance,English,The Hunchback of Notre Dame 
+Mark Dindal,Adventure|Animation|Comedy|Family|Fantasy,English,The Emperor's New Groove 
+Simon West,Action|Adventure|Thriller,English,The Expendables 2 
+Jon Turteltaub,Action|Adventure|Comedy|Family|Mystery,English,National Treasure 
+Stefen Fangmeier,Action|Adventure|Family|Fantasy,English,Eragon 
+Spike Jonze,Adventure|Drama|Family|Fantasy,English,Where the Wild Things Are 
+Joe Wright,Adventure|Family|Fantasy,English,Pan 
+Chris Wedge,Adventure|Animation|Family|Fantasy,English,Epic 
+Florian Henckel von Donnersmarck,Action|Romance|Thriller,English,The Tourist 
+Peter Hyams,Action|Fantasy|Horror|Mystery,English,End of Days 
+Edward Zwick,Adventure|Drama|Thriller,English,Blood Diamond 
+Martin Scorsese,Biography|Comedy|Crime|Drama,English,The Wolf of Wall Street 
+Joel Schumacher,Action|Adventure|Fantasy,English,Batman Forever 
+Paul Verhoeven,Action|Sci-Fi|War,English,Starship Troopers 
+Tom Tykwer,Drama|Sci-Fi,English,Cloud Atlas 
+Zack Snyder,Action|Adventure|Animation|Family|Fantasy,English,Legend of the Guardians: The Owls of Ga'Hoole 
+Pitof,Action|Crime|Fantasy|Romance|Thriller,English,Catwoman 
+Brett Ratner,Action|Adventure,English,Hercules 
+Ron Clements,Adventure|Animation|Family|Sci-Fi,English,Treasure Planet 
+Brad Silberling,Adventure|Comedy|Sci-Fi,English,Land of the Lost 
+Patrick Hughes,Action|Adventure|Thriller,English,The Expendables 3 
+Ericson Core,Action|Crime|Sport|Thriller,English,Point Break 
+Lawrence Guterman,Comedy|Family|Fantasy,English,Son of the Mask 
+Ron Howard,Action|Adventure|Biography|Drama|History|Thriller,English,In the Heart of the Sea 
+Ron Underwood,Action|Comedy|Sci-Fi,English,The Adventures of Pluto Nash 
+Paul Greengrass,Action|Drama|Thriller|War,English,Green Zone 
+Steve Martino,Adventure|Animation|Comedy|Family,English,The Peanuts Movie 
+David Mamet,Drama|Mystery|Thriller,English,The Spanish Prisoner 
+Stephen Sommers,Action|Adventure|Fantasy|Thriller,English,The Mummy Returns 
+Martin Scorsese,Crime|Drama,English,Gangs of New York 
+Yimou Zhang,Drama|History|Romance|War,Mandarin,The Flowers of War 
+Ash Brannon,Animation|Comedy|Family|Sport,English,Surf's Up 
+Frank Oz,Comedy|Sci-Fi|Thriller,English,The Stepford Wives 
+Ridley Scott,Drama|History|War,English,Black Hawk Down 
+Jay Roach,Comedy,English,The Campaign 
+Luc Besson,Action|Adventure|Sci-Fi,English,The Fifth Element 
+Michael Patrick King,Comedy|Drama|Romance,English,Sex and the City 2 
+Bibo Bergeron,Adventure|Animation|Comedy|Family|Romance,English,The Road to El Dorado 
+Steve Martino,Adventure|Animation|Comedy|Family,English,Ice Age: Continental Drift 
+Kenneth Branagh,Drama|Family|Fantasy|Romance,English,Cinderella 
+Peter Jackson,Drama|Fantasy|Thriller,English,The Lovely Bones 
+Andrew Stanton,Adventure|Animation|Comedy|Family,English,Finding Nemo 
+Peter Jackson,Action|Adventure|Drama|Fantasy,English,The Lord of the Rings: The Return of the King 
+Peter Jackson,Action|Adventure|Drama|Fantasy,English,The Lord of the Rings: The Two Towers 
+Sergey Bodrov,Action|Adventure|Fantasy,English,Seventh Son 
+Simon West,Action|Adventure|Fantasy|Thriller,English,Lara Croft: Tomb Raider 
+Wally Pfister,Drama|Mystery|Romance|Sci-Fi|Thriller,English,Transcendence 
+Joe Johnston,Action|Adventure|Sci-Fi|Thriller,English,Jurassic Park III 
+Rupert Wyatt,Action|Drama|Sci-Fi|Thriller,English,Rise of the Planet of the Apes 
+Mark Waters,Adventure|Family|Fantasy,English,The Spiderwick Chronicles 
+John Moore,Action|Thriller,English,A Good Day to Die Hard 
+John Lee Hancock,Drama|History|War|Western,English,The Alamo 
+Brad Bird,Action|Adventure|Animation|Family,English,The Incredibles 
+Renny Harlin,Action|Adventure|Comedy,English,Cutthroat Island 
+Chris Columbus,Adventure|Family|Fantasy,English,Percy Jackson & the Olympians: The Lightning Thief 
+Barry Sonnenfeld,Adventure|Comedy|Family|Mystery|Sci-Fi,English,Men in Black 
+John Lasseter,Adventure|Animation|Comedy|Family|Fantasy,English,Toy Story 2 
+Tony Scott,Action|Thriller,English,Unstoppable 
+Brett Ratner,Action|Comedy|Crime|Thriller,English,Rush Hour 2 
+Robert Zemeckis,Drama|Fantasy|Horror|Mystery|Thriller,English,What Lies Beneath 
+Phil Lord,Animation|Comedy|Family|Sci-Fi,English,Cloudy with a Chance of Meatballs 
+Carlos Saldanha,Action|Adventure|Animation|Comedy|Family,English,Ice Age: Dawn of the Dinosaurs 
+Ben Stiller,Adventure|Comedy|Drama|Fantasy|Romance,English,The Secret Life of Walter Mitty 
+McG,Action|Adventure|Comedy|Crime|Thriller,English,Charlie's Angels 
+Martin Scorsese,Crime|Drama|Thriller,English,The Departed 
+Tony Bancroft,Adventure|Animation|Family|Fantasy|Musical|War,English,Mulan 
+Ben Stiller,Action|Comedy,English,Tropic Thunder 
+David Fincher,Crime|Drama|Mystery|Thriller,English,The Girl with the Dragon Tattoo 
+John McTiernan,Action|Adventure|Thriller,English,Die Hard with a Vengeance 
+Guy Ritchie,Action|Adventure|Crime|Mystery|Thriller,English,Sherlock Holmes 
+Timur Bekmambetov,Adventure|Drama|History,English,Ben-Hur 
+Gary Trousdale,Action|Adventure|Animation|Family|Fantasy|Sci-Fi,English,Atlantis: The Lost Empire 
+Walt Becker,Adventure|Animation|Comedy|Family|Fantasy|Music,English,Alvin and the Chipmunks: The Road Chip 
+Bryan Singer,Drama|History|Thriller|War,English,Valkyrie 
+Dennis Dugan,Action|Comedy,English,You Don't Mess with the Zohan 
+Chris Columbus,Action|Animation|Comedy|Sci-Fi,English,Pixels 
+Steven Spielberg,Adventure|Drama|Sci-Fi,English,A.I. Artificial Intelligence 
+Rob Minkoff,Comedy|Family|Fantasy|Horror|Mystery,English,The Haunted Mansion 
+Robert Zemeckis,Drama|Mystery|Sci-Fi|Thriller,English,Contact 
+Paul Verhoeven,Action|Horror|Sci-Fi|Thriller,English,Hollow Man 
+Sydney Pollack,Crime|Mystery|Thriller,Aboriginal,The Interpreter 
+Thor Freudenthal,Adventure|Family|Fantasy,English,Percy Jackson: Sea of Monsters 
+Jan de Bont,Action|Adventure|Fantasy,English,Lara Croft Tomb Raider: The Cradle of Life 
+Jon M. Chu,Action|Adventure|Comedy|Crime|Mystery|Thriller,English,Now You See Me 2 
+Phillip Noyce,Action|Adventure|Romance|Sci-Fi|Thriller,English,The Saint 
+Tony Scott,Action|Crime|Thriller,English,Spy Game 
+Brian De Palma,Adventure|Sci-Fi|Thriller,English,Mission to Mars 
+Carlos Saldanha,Adventure|Animation|Comedy|Family|Musical,English,Rio 
+Chris Columbus,Comedy|Drama|Sci-Fi,English,Bicentennial Man 
+Mick Jackson,Action|Drama|Sci-Fi|Thriller,English,Volcano 
+Alan J. Pakula,Action|Crime|Drama|Thriller,English,The Devil's Own 
+Kathryn Bigelow,Drama|History|Thriller|War,English,K-19: The Widowmaker 
+Josh Trank,Action|Adventure|Sci-Fi,English,Fantastic Four 
+John Milius,Adventure|Fantasy,English,Conan the Barbarian 
+Ron Howard,Biography|Drama|Sport,English,Cinderella Man 
+Andrey Konchalovskiy,Action|Family|Fantasy|Musical,English,The Nutcracker in 3D 
+Gary Ross,Drama|History|Sport,English,Seabiscuit 
+Jan de Bont,Action|Adventure|Drama|Thriller,English,Twister 
+Rob Cohen,Action|Crime|Thriller,English,The Fast and the Furious 
+Robert Zemeckis,Adventure|Drama|Romance,English,Cast Away 
+George Miller,Animation|Comedy|Family|Music|Romance,English,Happy Feet 
+Paul Greengrass,Action|Mystery|Thriller,English,The Bourne Supremacy 
+Wolfgang Petersen,Action|Adventure|Drama|Thriller,English,Air Force One 
+Steven Soderbergh,Crime|Thriller,English,Ocean's Eleven 
+Paul W.S. Anderson,Action|Adventure|Romance,English,The Three Musketeers 
+Genndy Tartakovsky,Animation|Comedy|Family|Fantasy,English,Hotel Transylvania 
+Kevin Lima,Animation|Comedy|Family|Fantasy|Musical|Romance,English,Enchanted 
+,Crime|Drama|Horror|Mystery|Thriller,English,Hannibal             
+Daniel Espinosa,Action|Crime|Mystery|Thriller,English,Safe House 
+Kevin Lima,Adventure|Comedy|Family,English,102 Dalmatians 
+Brett Ratner,Action|Comedy|Crime,English,Tower Heist 
+Nancy Meyers,Comedy|Romance,English,The Holiday 
+Tony Scott,Action|Crime|Drama|Mystery|Thriller,English,Enemy of the State 
+Nancy Meyers,Comedy|Drama|Romance,English,It's Complicated 
+Steven Soderbergh,Crime|Thriller,English,Ocean's Thirteen 
+Roger Allers,Adventure|Animation|Comedy|Family,English,Open Season 
+Neil Burger,Adventure|Mystery|Sci-Fi,English,Divergent 
+Jean-Jacques Annaud,Drama|History|War,English,Enemy at the Gates 
+Peter Berg,Action|Adventure|Comedy|Thriller,English,The Rundown 
+John McTiernan,Action|Adventure|Comedy|Fantasy,English,Last Action Hero 
+Rob Marshall,Drama|Romance,English,Memoirs of a Geisha 
+Justin Lin,Action|Crime|Thriller,English,The Fast and the Furious: Tokyo Drift 
+Sarah Smith,Adventure|Animation|Comedy|Family|Fantasy,English,Arthur Christmas 
+Martin Brest,Drama|Fantasy|Romance,English,Meet Joe Black 
+Andrew Davis,Action|Drama|Thriller,English,Collateral Damage 
+Bob Fosse,Comedy|Drama|Music|Musical,English,All That Jazz 
+Tarsem Singh,Adventure|Comedy|Drama|Family|Fantasy,English,Mirror Mirror 
+Edgar Wright,Action|Comedy|Fantasy|Romance,English,Scott Pilgrim vs. the World 
+Jon Amiel,Action|Adventure|Sci-Fi|Thriller,English,The Core 
+Peter Segal,Comedy|Romance|Sci-Fi,English,Nutty Professor II: The Klumps 
+Raja Gosnell,Adventure|Comedy|Mystery,English,Scooby-Doo 
+Pete Travis,Action|Sci-Fi,English,Dredd 
+Frank Coraci,Comedy|Drama|Fantasy|Romance,English,Click 
+George A. Romero,Comedy|Fantasy|Horror,English,Creepshow 
+Brad Peyton,Action|Comedy|Family|Fantasy,English,Cats & Dogs: The Revenge of Kitty Galore 
+Doug Liman,Action|Adventure|Sci-Fi|Thriller,English,Jumper 
+Guillermo del Toro,Action|Adventure|Fantasy|Horror|Sci-Fi,English,Hellboy II: The Golden Army 
+David Fincher,Crime|Drama|History|Mystery|Thriller,English,Zodiac 
+Roger Spottiswoode,Action|Mystery|Sci-Fi|Thriller,English,The 6th Day 
+Tom Shadyac,Comedy|Drama,English,Bruce Almighty 
+Sylvester Stallone,Action|Adventure|Thriller,English,The Expendables 
+Brian De Palma,Action|Adventure|Thriller,English,Mission: Impossible 
+Gary Ross,Adventure|Drama|Sci-Fi|Thriller,English,The Hunger Games 
+Todd Phillips,Comedy,English,The Hangover Part II 
+Tim Burton,Action,English,Batman Returns 
+Tim Johnson,Adventure|Animation|Comedy|Family,English,Over the Hedge 
+Dean DeBlois,Adventure|Animation|Comedy|Drama|Family|Fantasy|Sci-Fi,English,Lilo & Stitch 
+Gary Winick,Comedy|Family|Fantasy,English,Charlotte's Web 
+Mimi Leder,Action|Drama|Romance|Sci-Fi|Thriller,English,Deep Impact 
+Dean Parisot,Action|Comedy|Crime|Thriller,English,RED 2 
+Peter Segal,Comedy|Crime|Sport,English,The Longest Yard 
+Mike Mitchell,Adventure|Animation|Comedy|Family|Fantasy|Music,English,Alvin and the Chipmunks: Chipwrecked 
+Dennis Dugan,Comedy,English,Grown Ups 2 
+Peter Segal,Action|Adventure|Comedy,English,Get Smart 
+Nancy Meyers,Comedy|Drama|Romance,English,Something's Gotta Give 
+Martin Scorsese,Mystery|Thriller,English,Shutter Island 
+Seth Gordon,Comedy|Drama|Romance,English,Four Christmases 
+Chris Wedge,Adventure|Animation|Comedy|Family|Sci-Fi,English,Robots 
+John Woo,Action|Crime|Sci-Fi|Thriller,English,Face/Off 
+Adam Shankman,Comedy|Family|Fantasy|Romance,English,Bedtime Stories 
+Sam Mendes,Crime|Drama|Thriller,English,Road to Perdition 
+Dennis Dugan,Comedy|Romance,English,Just Go with It 
+,Action|Adventure|Crime|Drama|Sci-Fi|Thriller,English,Daredevil             
+Simon West,Action|Crime|Thriller,English,Con Air 
+D.J. Caruso,Action|Mystery|Thriller,English,Eagle Eye 
+Anthony Minghella,Adventure|Drama|History|Romance|War,English,Cold Mountain 
+Albert Hughes,Action|Adventure|Drama|Thriller,English,The Book of Eli 
+Les Mayfield,Comedy|Family|Sci-Fi,English,Flubber 
+Jan de Bont,Fantasy|Horror|Mystery|Thriller,English,The Haunting 
+Joe Pytka,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi|Sport,English,Space Jam 
+Shawn Levy,Adventure|Comedy|Crime|Family|Mystery,English,The Pink Panther 
+Scott Derrickson,Drama|Sci-Fi|Thriller,English,The Day the Earth Stood Still 
+Richard Donner,Action|Crime|Mystery|Romance|Thriller,English,Conspiracy Theory 
+David Ayer,Action|Drama|War,English,Fury 
+Ivan Reitman,Action|Adventure|Comedy|Romance,English,Six Days Seven Nights 
+Eric Brevig,Adventure|Animation|Comedy|Family,English,Yogi Bear 
+Kelly Asbury,Adventure|Animation|Family|Western,English,Spirit: Stallion of the Cimarron 
+Frank Coraci,Comedy|Family|Romance,English,Zookeeper 
+Stephen Hopkins,Action|Adventure|Family|Sci-Fi|Thriller,English,Lost in Space 
+Jonathan Demme,Drama|Mystery|Sci-Fi|Thriller,English,The Manchurian Candidate 
+Henry Jaglom,Drama|Romance,English,Déjà Vu 
+Genndy Tartakovsky,Animation|Comedy|Family|Fantasy,English,Hotel Transylvania 2 
+,Comedy|Family|Fantasy,English,Bewitched             
+James Algar,Animation|Family|Fantasy|Music,English,Fantasia 2000 
+Simon Wells,Action|Adventure|Sci-Fi,English,The Time Machine 
+Ron Underwood,Action|Adventure|Family|Fantasy|Thriller,English,Mighty Joe Young 
+Dominic Sena,Action|Crime|Thriller,English,Swordfish 
+Martin Campbell,Action|Adventure|Western,Spanish,The Legend of Zorro 
+Vincent Ward,Drama|Fantasy|Romance,English,What Dreams May Come 
+Steven Brill,Comedy|Fantasy,English,Little Nicky 
+Terry Gilliam,Action|Adventure|Comedy|Fantasy|Thriller,English,The Brothers Grimm 
+Tim Burton,Action|Comedy|Sci-Fi,English,Mars Attacks! 
+Lucile Hadzihalilovic,Drama|Horror|Mystery|Sci-Fi,French,Evolution 
+Lee Tamahori,Action|Adventure|Drama|Thriller,English,The Edge 
+Jonathan Mostow,Action|Sci-Fi|Thriller,English,Surrogates 
+Roger Donaldson,Drama|History|Thriller,English,Thirteen Days 
+Rob Cohen,Action|Adventure|Drama|Thriller,English,Daylight 
+Barry Cook,Adventure|Animation|Family,English,Walking with Dinosaurs 3D 
+Roger Christian,Action|Adventure|Sci-Fi,English,Battlefield Earth 
+Joe Dante,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,English,Looney Tunes: Back in Action 
+Rob Marshall,Drama|Musical|Romance,English,Nine 
+Richard Donner,Action|Adventure|Sci-Fi,English,Timeline 
